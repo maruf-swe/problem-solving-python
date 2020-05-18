@@ -8,9 +8,9 @@ import sys
 # Complete the solve function below.
 def solve(meal_cost, tip_percent, tax_percent):
     meal_cost = meal_cost
-    tip = meal_cost * (tip_percent/100)
-    tax = meal_cost * (tax_percent/100)
-    totalCost = (meal_cost + tip + tax)
+    tipPercent = meal_cost * (tip_percent/100)
+    taxPercent = meal_cost * (tax_percent/100)
+    totalCost = (meal_cost + tipPercent + taxPercent)
     print(round(totalCost))
 
 

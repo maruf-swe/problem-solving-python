@@ -3,7 +3,7 @@ print(sorted(list(set(nums)))[-2])
 
 
 print("Optional Solution")
-arr = map(int, input().split())
+arr = list(map(int, input().split()))
 newlist = []
 for i in arr:
     if i not in newlist:

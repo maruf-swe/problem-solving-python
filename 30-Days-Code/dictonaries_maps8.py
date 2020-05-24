@@ -11,7 +11,21 @@ while True:
     except:
         break
 
-
+#another solution
+n = int(input())  # this code goes to run time error
+phone_book = {}
+for _ in range(n):
+    name, number = input().split()
+    phone_book[name] = number
+while(1):
+    try:
+        query_name = input()
+        if query_name in phone_book:
+            print('%s=%s' % (query_name, phone_book[query_name]))
+        else:
+            print('Not found')
+    except:
+        break
 
 n = int(input())  # this code goes to run time error
 phone_book = {}

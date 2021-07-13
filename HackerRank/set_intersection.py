@@ -1,0 +1,16 @@
+'''
+Input Format
+
+The first line contains n , the number of students who have subscribed to the English newspaper.
+The second line contains n space separated roll numbers of those students.
+The third line contains b, the number of students who have subscribed to the French newspaper.
+The fourth line contains b space separated roll numbers of those students.
+
+output: Output the total number of students who have subscriptions to both English and French newspapers.
+'''
+
+n = int(input())
+roll_english_newspaper = set(input().split())
+b = int(input())
+roll_french_newspaper = set(input().split())
+print(len(roll_english_newspaper.intersection(roll_french_newspaper)))

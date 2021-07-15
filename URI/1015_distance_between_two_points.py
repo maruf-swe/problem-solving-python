@@ -6,7 +6,7 @@ print("%.4f" % distance)
 
 
 # another solution
-import math
+import math  # in the top possition
 
 x1, y1 = list(map(float, input().split()))
 x2, y2 = list(map(float, input().split()))

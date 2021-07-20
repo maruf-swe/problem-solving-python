@@ -1,0 +1,10 @@
+val1, val2, val3 = list(map(int, input().split()))
+list_of_three = [val1, val2, val3]
+list_of_three.sort()
+print(list_of_three[0])
+print(list_of_three[1])
+print(list_of_three[2])
+print()
+print(val1)
+print(val2)
+print(val3)

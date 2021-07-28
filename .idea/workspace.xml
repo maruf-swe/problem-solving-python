@@ -5,8 +5,6 @@
       <change beforePath="$PROJECT_DIR$/../ds-algorithms/.idea/ds-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ds-algorithms/.idea/ds-algorithms.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ds-algorithms/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ds-algorithms/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ds-algorithms/Algorithms/Sorts/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ds-algorithms/Algorithms/Sorts/bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/problem-solving.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/problem-solving.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/URI/1047_game_time_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/URI/1047_game_time_minutes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,7 +178,7 @@
       <workItem from="1627234173112" duration="3997000" />
       <workItem from="1627266862163" duration="15712000" />
       <workItem from="1627378228058" duration="6731000" />
-      <workItem from="1627490163345" duration="617000" />
+      <workItem from="1627490163345" duration="941000" />
     </task>
     <servers />
   </component>

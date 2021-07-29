@@ -8,11 +8,3 @@ for i in range(6):
 
 print(count, "valores positivos")
 print("%0.1f" % (sum / count))
-
-"""
-7
--5
-6
--3.4
-4.6
-12"""

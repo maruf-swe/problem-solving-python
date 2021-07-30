@@ -8,8 +8,7 @@ while True:
     if count == 6:
         break
 
-"""
-another solution 
+# another solution
 x = int(input())
 i = 0
 while (i < 6):
@@ -17,4 +16,3 @@ while (i < 6):
         print(x)
         i = i + 1
     x += 1
-"""

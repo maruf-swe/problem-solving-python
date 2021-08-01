@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2003afc2-7a32-446e-b913-14cda5bb7c89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ds-algorithms/.idea/ds-algorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ds-algorithms/.idea/ds-algorithms.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ds-algorithms/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ds-algorithms/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ds-algorithms/Algorithms/Sorts/bubble_sort.py" beforeDir="false" afterPath="$PROJECT_DIR$/../ds-algorithms/Algorithms/Sorts/bubble_sort.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/URI/1047_game_time_minutes.py" beforeDir="false" afterPath="$PROJECT_DIR$/URI/1047_game_time_minutes.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Django/Corey-Schefar/user/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../Django/Corey-Schefar/user/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,19 +13,22 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Django/Corey-Schefar" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../../Django/Corey-Schefar/blog/templates/blog/base.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Django/Corey-Schefar/blog/templates/blog/home.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Django/Corey-Schefar/blog/templates/blog/about.html" root0="SKIP_INSPECTION" root1="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1voh6CZPXaTNTjnXm5T6wmCJh6u" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -46,8 +47,8 @@
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.1060_positive_numbers">
-    <configuration name="1051_taxes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1094_expriements">
+    <configuration name="1075_remaining2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,7 +61,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1051_taxes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1075_remaining2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -69,7 +70,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1052_months" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1078_multiplication_table" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +83,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1052_months.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1078_multiplication_table.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +92,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1059_even_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1079_weighted_avg" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -104,7 +105,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1059_even_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1079_weighted_avg.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +114,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1060_positive_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1080_highest_position" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -126,7 +127,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\Maruf\Desktop\Python Practice\problem-solving\URI\1060_positive_numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1080_highest_position.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -135,20 +136,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="ds-algorithms" />
+    <configuration name="1094_expriements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="problem-solving" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../ds-algorithms/Data_Structures" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/URI" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ds-algorithms/Data_Structures/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/URI/1094_expriements.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1060_positive_numbers" />
-        <item itemvalue="Python.1059_even_numbers" />
-        <item itemvalue="Python.1052_months" />
-        <item itemvalue="Python.1051_taxes" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.1094_expriements" />
+        <item itemvalue="Python.1080_highest_position" />
+        <item itemvalue="Python.1079_weighted_avg" />
+        <item itemvalue="Python.1078_multiplication_table" />
+        <item itemvalue="Python.1075_remaining2" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,11 @@
       <workItem from="1627234173112" duration="3997000" />
       <workItem from="1627266862163" duration="15712000" />
       <workItem from="1627378228058" duration="6731000" />
-      <workItem from="1627490163345" duration="941000" />
+      <workItem from="1627490163345" duration="1628000" />
+      <workItem from="1627573167836" duration="4811000" />
+      <workItem from="1627655351027" duration="5021000" />
+      <workItem from="1627736285767" duration="18895000" />
+      <workItem from="1627797686875" duration="595000" />
     </task>
     <servers />
   </component>
@@ -186,11 +191,25 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/problem_solving$1052_months.coverage" NAME="1052_months Coverage Results" MODIFIED="1627406618829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
-    <SUITE FILE_PATH="coverage/problem_solving$views.coverage" NAME="views Coverage Results" MODIFIED="1627267732570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Django/Corey-Schefar/blog" />
+    <SUITE FILE_PATH="coverage/problem_solving$1073_even_square.coverage" NAME="1073_even_square Coverage Results" MODIFIED="1627667237766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1065_even_numbers.coverage" NAME="1065_even_numbers Coverage Results" MODIFIED="1627575136695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
     <SUITE FILE_PATH="coverage/problem_solving$1059_even_numbers.coverage" NAME="1059_even_numbers Coverage Results" MODIFIED="1627406907077" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
-    <SUITE FILE_PATH="coverage/problem_solving$1051_taxes.coverage" NAME="1051_taxes Coverage Results" MODIFIED="1627405820973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
-    <SUITE FILE_PATH="coverage/problem_solving$test.coverage" NAME="test Coverage Results" MODIFIED="1627274407590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ds-algorithms/Data_Structures" />
+    <SUITE FILE_PATH="coverage/problem_solving$1070_six_odd_numbers.coverage" NAME="1070_six_odd_numbers Coverage Results" MODIFIED="1627664755090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
     <SUITE FILE_PATH="coverage/problem_solving$1060_possitive_numbers.coverage" NAME="1060_possitive_numbers Coverage Results" MODIFIED="1627407821086" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1072_interval.coverage" NAME="1072_interval Coverage Results" MODIFIED="1627666636149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1071_sum_of_odd.coverage" NAME="1071_sum_of_odd Coverage Results" MODIFIED="1627665929194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1074_even_odd.coverage" NAME="1074_even_odd Coverage Results" MODIFIED="1627760540216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1052_months.coverage" NAME="1052_months Coverage Results" MODIFIED="1627406618829" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1075_remaining2.coverage" NAME="1075_remaining2 Coverage Results" MODIFIED="1627761376391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$views.coverage" NAME="views Coverage Results" MODIFIED="1627267732570" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../Django/Corey-Schefar/blog" />
+    <SUITE FILE_PATH="coverage/problem_solving$1064_possitive_average.coverage" NAME="1064_possitive_average Coverage Results" MODIFIED="1627574955787" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1080_highest_position.coverage" NAME="1080_highest_position Coverage Results" MODIFIED="1627762625773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1051_taxes.coverage" NAME="1051_taxes Coverage Results" MODIFIED="1627405820973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1079_weighted_avg.coverage" NAME="1079_weighted_avg Coverage Results" MODIFIED="1627762132759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$test.coverage" NAME="test Coverage Results" MODIFIED="1627274407590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../ds-algorithms/Data_Structures" />
+    <SUITE FILE_PATH="coverage/problem_solving$1067_odd_numbers.coverage" NAME="1067_odd_numbers Coverage Results" MODIFIED="1627576445248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1094_expriements.coverage" NAME="1094_expriements Coverage Results" MODIFIED="1627766518208" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1078_multiplication_table.coverage" NAME="1078_multiplication_table Coverage Results" MODIFIED="1627761591482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
+    <SUITE FILE_PATH="coverage/problem_solving$1066_even_odd_possitive_neg.coverage" NAME="1066_even_odd_possitive_neg Coverage Results" MODIFIED="1627575798817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/URI" />
   </component>
 </project>

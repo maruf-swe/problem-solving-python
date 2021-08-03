@@ -9,7 +9,7 @@ for i in range(n):
             sum += j
     print(sum)
 
-
+# another way
 n = int(input())
 for i in range(n):
     a, b = list(map(int, input().split()))
